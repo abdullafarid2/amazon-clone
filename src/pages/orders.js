@@ -10,7 +10,7 @@ function Orders({ orders }) {
   return (
     <div>
       <Header />
-      <main className="max-w-screen-lg mx-auto p-10">
+      <main className="max-w-screen-lg mx-auto p-11">
         <h1 className="text-3xl border-b mb-2 pb-1 border-yellow-400">
           Your Orders
         </h1>
